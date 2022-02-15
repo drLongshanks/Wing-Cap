@@ -1,0 +1,2 @@
+# Wing-Cap
+A program that compares your speed run segment times to your choice of tutorial benchmarks, top runner splits, or other records and automatically advises which segments need the most practice. Intended to be very simple and easy to use so that the speed runner can focus on speed running and not analyzing data. The first game used will be Super Mario 64 but the program could theoretically be expanded to suit other games as well. 
