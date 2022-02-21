@@ -1,0 +1,33 @@
+    A list of skill levels the player can identify with. Used to determine which times to pull from database.
+    The database should include single-star times and full segment times as well. I don't know how often these will be updated. For WR Contenders I envision their times to be compared to averages of the top 10 players in their respective category. I haven't figured out the mechanics of this just yet.
+
+----------------------------------------------------------------
+Skill Levels
+----------------------------------------------------------------
+
+Total Noob:
+For those with little to no experience playing Super Mario 64. You won't be focusing on any tricks at this stage, as improving your movement is the only way to lower your overall time. Your times will be compared to the most basic tutorials as you begin your speedrunning journey.
+
+Total Noob 0 Star:
+For those with little to no experience playing Super Mario 64. As a brand-new player, it is not advised that you start your career by learning 0 Star. The difficult maneuvers required to run this category can be extremely frustrating even for seasoned players. Play at your own risk...
+
+Total Noob 1 Star
+For those with little to no experience playing Super Mario 64. As a brand-new player, it is not advised that you start your career by learning 1 Star. The difficult maneuvers required to run this category can be extremely frustrating even for seasoned players. Play at your own risk...
+
+Beginner:
+You've familiar with all the basic movement and you might get a Lakitu skip every once in a while but aren't ready for any major tricks just yet. Most of your times will still be compared to basic tutorials, with the addition of some beginner/intermediate tutorials, as indicated by Ukikipedia.
+
+Beginner 0 Star:
+You've learned all the basic movement, but you probably aren't quite ready for 0 Star just yet. You will be required to learn very precise and difficult maneuvers which can be frustrating for players of all skill levels.
+
+Beginner 1 Star:
+You've learned all the basic movement, but you probably aren't quite ready for 1 Star just yet. You will be required to learn very precise and difficult maneuvers which can be frustrating for players of all skill levels.
+
+Intermediate:
+You nail almost every wall kick, your roll-outs are nearly dust free, and maybe you've even found a way to consistently get those BLJ's down. You're ready to let the owl sleep and stay off of SSL's pillars as your gameplay improves. Your times will be compared to intermediate tutorials where available.
+
+Expert:
+Your dedication and commitment have paid off as you climb the ranks and lower your time! You're ready to nail the Tsukishima cycle and bounce off of Lakitu in Rainbow Ride as you start to narrow down your competition. Your times are compared to Advanced and Expert tutorials.
+
+WR Contender:
+You know the most advanced strats and their backups by heart, if you aren't the one who created them in the first place. Comparing your times to Ukikipedia tutorials at this stage is irrelevant, so your times are now compared to the average of the top players in the world. Congratulations! (Note: Frequency of top-time database update is not guaranteed to be on any set schedule, please check the most recent records for your category)

@@ -1,0 +1,16 @@
+    A non-exhaustive list of platforms the user may be playing on. Does not include mobile or other "non-competitive" systems.
+    "Releases" is a list of game versions I was able to think of at the time.
+----------------------------------------------------------------
+*SYSTEMS*
+N64
+Emulator (Mupen)
+Emulator (PJ64)
+Mobile
+Switch
+WiiUVC
+WiiVC
+*RELEASES*
+US
+JP
+PAL
+Shindou

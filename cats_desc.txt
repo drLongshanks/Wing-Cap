@@ -1,0 +1,33 @@
+    Most common categories are listed between "BASE" and "OTHER". Will be implemented before "OTHER" categories in the interest of reaching the largest population first. Fun fact, at the time of this note, 2/16/2022, the number of players running Category Extensions, according to speedrun.com, is %75 lower than the main categories.
+    Categories under "OTHER" will not be supported initially. That sure would be a lot of work for my first
+real coding project. I would, however, like to support these categories in the future.
+
+----------------------------------------------------------------
+Categories
+----------------------------------------------------------------
+
+Other Categories:
+*OTHER*
+15 Star
+30 Star
+31 Star
+45 Star
+50 Star
+90 Star
+100 Unique Lives
+1000 Unique Coins
+10x Cless
+10x DDD Skip
+50 Cap Star
+70 CCCless
+All ! Boxes
+All Blue Coins
+All Cannons
+All Coins
+All Red Coin Stars
+All Signs
+All Warps
+Blindfolded
+Mario Cam RTA
+MST
+Nonstop
